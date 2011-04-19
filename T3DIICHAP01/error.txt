@@ -1,0 +1,6 @@
+
+Opening Error Output File (error.txt) on Sat Apr 02 17:49:05.203, 2011
+
+
+pixel format = 32
+pixel format = 5.6.5

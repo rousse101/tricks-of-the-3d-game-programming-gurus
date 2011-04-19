@@ -1,0 +1,169 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "demoii13_1res.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "demoii13_1res.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_BSPMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "File"
+    BEGIN
+        MENUITEM "Load .LEV File",              ID_FILE_LOAD_LEV
+        MENUITEM "Save .LEV File",              ID_FILE_SAVE_LEV
+        MENUITEM "Exit",                        ID_FILE_EXIT
+    END
+    POPUP "Options"
+    BEGIN
+        MENUITEM "View Grid",                   IDC_VIEWGRID, CHECKED
+        MENUITEM "View Walls",                  IDC_VIEWWALLS, CHECKED
+        MENUITEM "View Floors",                 IDC_VIEWFLOORS, CHECKED
+    END
+    POPUP "Build"
+    BEGIN
+        MENUITEM "Compile .BSP to File",        ID_BUILD_TO_FILE, GRAYED
+        MENUITEM "Compile .BSP and View",       ID_COMPILE_VIEW
+    END
+    POPUP "Help"
+    BEGIN
+        MENUITEM "About",                       ID_HELP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 180, 121
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Filename Dialog"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,64,98,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,119,97,50,14
+    LTEXT           ".LEV file to load?",IDC_STATIC,13,14,150,15
+    EDITTEXT        IDC_EDIT1,15,28,154,13,ES_AUTOHSCROLL
+    CONTROL         "Option 1",IDC_OPTION1,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,17,63,51,9
+    CONTROL         "Option 2",IDC_OPTION2,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,86,65,89,8
+    LTEXT           "Select to change save attributes",IDC_STATIC,16,49,155,
+                    10
+    CONTROL         "Option 3",IDC_OPTION3,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,17,78,43,10
+    CONTROL         "Option 4",IDC_OPTION4,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,86,78,43,10
+END
+
+IDD_DIALOG2 DIALOG DISCARDABLE  0, 0, 180, 121
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Filename Dialog"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,64,98,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,119,97,50,14
+    LTEXT           "Save as *.LEV?",IDC_STATIC,13,14,150,15
+    EDITTEXT        IDC_EDIT1,15,28,154,13,ES_AUTOHSCROLL
+    CONTROL         "Option 1",IDC_OPTION1,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,17,63,51,9
+    CONTROL         "Option 2",IDC_OPTION2,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,86,65,89,8
+    LTEXT           "Select to change save attributes",IDC_STATIC,16,49,155,
+                    10
+    CONTROL         "Option 3",IDC_OPTION3,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,17,78,43,10
+    CONTROL         "Option 4",IDC_OPTION4,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,86,78,43,10
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 176
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 117
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 176
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 117
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,47 @@
+#include "DEMOII3_3RES.H"
+
+// the icon and cursor resource
+ICON_T3DX        ICON   t3dx.ico
+CURSOR_CROSSHAIR CURSOR crosshair.cur
+
+// the menu resource
+SoundMenu MENU DISCARDABLE
+{
+POPUP "&File"
+	{
+	MENUITEM "E&xit",  MENU_FILE_ID_EXIT
+	} // end popup
+
+POPUP "&Play_MIDI"
+	{
+        MENUITEM  "MIDI FILE 0",             MENU_PLAY_ID_0
+        MENUITEM  "MIDI FILE 1",             MENU_PLAY_ID_1
+        MENUITEM  "MIDI FILE 2",             MENU_PLAY_ID_2
+        MENUITEM  "MIDI FILE 3",             MENU_PLAY_ID_3
+        MENUITEM  "MIDI FILE 4",             MENU_PLAY_ID_4
+        MENUITEM  "MIDI FILE 5",             MENU_PLAY_ID_5
+        MENUITEM  "MIDI FILE 6",             MENU_PLAY_ID_6
+        MENUITEM  "MIDI FILE 7",             MENU_PLAY_ID_7
+        MENUITEM  "MIDI FILE 8",             MENU_PLAY_ID_8
+        MENUITEM  "MIDI FILE 9",             MENU_PLAY_ID_9
+        
+	} // end popup
+
+
+POPUP "&Play_DIGITAL"
+	{
+        MENUITEM  "WAV FILE 0",             MENU_PLAY_ID_10
+        MENUITEM  "WAV FILE 1",             MENU_PLAY_ID_11
+        MENUITEM  "WAV FILE 2",             MENU_PLAY_ID_12
+        MENUITEM  "WAV FILE 3",             MENU_PLAY_ID_13
+       
+	} // end popup
+
+
+
+POPUP "Help"
+	{
+	MENUITEM "About",  MENU_HELP_ABOUT
+	} // end popup
+
+} // end top level menu

@@ -1,0 +1,49 @@
+You'll want to turn on wrap if you can because I'm too lasy to space it myself
+
+<May 10, 2000>
+================================================================
+Model Name:		Droideka
+installation directory:	quake2/baseq2/players/Droideka
+Author:			Derrick Bowen
+Skin Author:		Derrick Bowen
+Email Address:		dbcoolio@mail.com
+
+Model description       : The Droideka(or Destroyer Droid) from STARWARS Episode 1 by LucasFilms.  Personally, I thought they were much neater than the normal droids so I decided to make a quake model of them
+
+Other info              : Here is the Official story form some page in a starwars book my cousin Richard e-mailed me:
+
+"To Make up for the weaknesses of battle droids, a special contract was awarded for the creation of an altogether different combat droid that would be a much more serious weapon.  The design was created by a species of chitinous Colicoids in their own image on a planet far from the Republic's Core.  Colicoids are known for their completely unfeeling and murderous ways, and Collo IV has been embroiled for many years in diplomatic disputes related to the death and consumption of visitors to the system.  The droideka was exactly what concerned Trade Federation officers wanted: a formidalbe, heavy-duty killing machine to back up the battle droids in the face of determined opposition."
+
+It got stuck in the quake universe the same way that all the other Star Wars Guys did, (black hole or something) but its sheilds are not functional. (there are way too many verts already)
+This is my first quake model, at least that i've finished, and I think I did a pretty good job on it.  I have some artistic talent and have done some artwork on the computer before, and I think it turned out pretty well.  Some people might not like the rolling thing, but I like it because even though it is not my original idea, it is very different from other quake ppms while still fitting in.  It is not a clan model so you can use it no matter if any idiot tries to tell you not to.  If someone wants to make a Starwars mod I would not be in opposition of them using my model in it, just put my name in the credits somewhere and email me and tell me about it so I can download it.  I don't plan on making another model but might consider it if you wanted to pay me (and I'm not expirienced enough to have anyone in their right mind to hire me, so this is most likely my last)
+
+
+================================================================
+* Play Information *
+New Sounds           : Yes
+CTF Skins            : Yes
+VWEP Support         : No
+* Construction *
+Poly Count              : Model 2078(I think this is right, its the face or triangle count)
+                          Weapon 424
+Vert Count              : Model 1014(I think this is right too, but I could be wrong)
+                          Weapon 224
+Skin Count              : 3
+Base                    : New model
+Editors used            : CorelPhotoPaint5, NST, Q2Modeler, Voyetra Audioview 32
+known Bugs              : It has a couple clipping problems(usually with itself),and it started out too big, and when i made it smaller, it didn't always match up with the weapon model as well as at first. but it doesn't seem to be noticeable so I'll probably leave it how it is.
+Build/Animation time    :about 6 weeks
+Skin wasted space       :30%
+
+* How to use this model *
+
+Unzip the contents of droideka.zip into quake2/baseq2/players
+this is a really dumb place to put this since you can't read this until after you've done it but oh well. Anyway because of this I'm only including 1 folder in the zip
+
+Additional Credits to   : Droideka and StarWars Episode 1 are a property of LucasFilm
+ 
+Thanks to   :
+		Richard Brown- for getting me the Information I needed
+		Npherno for making Npherno's Skin Tool
+		Whoever made Q2Modeler(even though its not finish, has a lot of bugs, and work on it has been discontinued)
+		My family for being cool

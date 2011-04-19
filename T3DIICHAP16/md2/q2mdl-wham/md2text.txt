@@ -1,0 +1,43 @@
+13 days till appocolypse :)
+================================================================
+Model Name              : Warhammer   WHM-6R
+installation directory  : quake2/baseq2/players/wham
+Author                  : Joe "Ebola" Woodrell
+Email Address           : pyro2000@earthlink.net
+
+Model description       :  Umm its a 70 ton walking tank
+
+Additional Credits to   : ID software, FASA, some guy named bob in Dallas :)
+
+Thanks to               : Me, Myself, but not I
+================================================================
+* Play Information *
+
+New Sounds              : NO (no i don't have a microphone but if i did...)
+CTF Skins               : YES
+VWEP Support            : NO ( the cannons are built into the arms)
+
+
+* Construction *
+Poly Count              : 784
+Vert Count              : 460
+Skin Count              : 
+Base                    : New model
+Editor used             : Truespace 4, Quake2 Model Editor (old version ;P, Adobe Photoshop 5.02
+Known Bugs              : Only a few flies but other than that...
+Build/Animation time    : Too long... off and on about 3 weeks
+
+
+* How to use this model *
+
+If you got to this point and you don't know how to install this model please ask the nurse
+for another dose of medication
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+I really don't care if you use this as a base for other models but if you do tell me first
+
+
+

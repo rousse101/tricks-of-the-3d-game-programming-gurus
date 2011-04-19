@@ -1,0 +1,8 @@
+syntax: glob
+
+*.lib
+*.pdb
+*.exe
+*.idb
+*.ncb
+*.suo

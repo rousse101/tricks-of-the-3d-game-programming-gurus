@@ -1,0 +1,1201 @@
+
+Opening Error Output File (ERROR.TXT) on Wed Jan 08 21:59:29.576, 2003
+
+
+COB Reader Object Name: Sphere
+Local COB Matrix:=
+1.000000 0.000000 0.000000 0.000000 
+0.000000 1.000000 0.000000 0.000000 
+0.000000 0.000000 1.000000 0.000000 
+0.002001 -0.005859 -0.014079 1.000000 
+
+World COB Matrix:=
+2.941750 0.000000 0.000000 0.000000 
+0.000000 2.941750 0.000000 0.000000 
+0.000000 0.000000 2.941750 0.000000 
+0.000000 0.000000 0.000000 1.000000 
+
+COB Reader Num Vertices: 114
+Vertex 0 = 0.029429, 29.210417, -0.086174, 1.000000
+Vertex 1 = 0.029429, -0.207083, -0.086174, 1.000000
+Vertex 2 = 5.658218, 28.090786, -0.086174, 1.000000
+Vertex 3 = 5.229752, 28.090786, 2.067878, 1.000000
+Vertex 4 = 4.009588, 28.090786, 3.893985, 1.000000
+Vertex 5 = 2.183482, 28.090786, 5.114150, 1.000000
+Vertex 6 = 0.029429, 28.090786, 5.542615, 1.000000
+Vertex 7 = -2.124623, 28.090786, 5.114150, 1.000000
+Vertex 8 = -3.950729, 28.090786, 3.893985, 1.000000
+Vertex 9 = -5.170893, 28.090786, 2.067878, 1.000000
+Vertex 10 = -5.599360, 28.090786, -0.086174, 1.000000
+Vertex 11 = -5.170893, 28.090786, -2.240226, 1.000000
+Vertex 12 = -3.950729, 28.090786, -4.066332, 1.000000
+Vertex 13 = -2.124623, 28.090786, -5.286496, 1.000000
+Vertex 14 = 0.029429, 28.090786, -5.714962, 1.000000
+Vertex 15 = 2.183482, 28.090786, -5.286496, 1.000000
+Vertex 16 = 4.009588, 28.090786, -4.066332, 1.000000
+Vertex 17 = 5.229752, 28.090786, -2.240226, 1.000000
+Vertex 18 = 10.430089, 24.902327, -0.086174, 1.000000
+Vertex 19 = 9.638391, 24.902327, 3.893985, 1.000000
+Vertex 20 = 7.383804, 24.902327, 7.268202, 1.000000
+Vertex 21 = 4.009588, 24.902327, 9.522788, 1.000000
+Vertex 22 = 0.029429, 24.902327, 10.314487, 1.000000
+Vertex 23 = -3.950729, 24.902327, 9.522788, 1.000000
+Vertex 24 = -7.324946, 24.902327, 7.268202, 1.000000
+Vertex 25 = -9.579533, 24.902327, 3.893985, 1.000000
+Vertex 26 = -10.371231, 24.902327, -0.086174, 1.000000
+Vertex 27 = -9.579517, 24.902327, -4.066332, 1.000000
+Vertex 28 = -7.324946, 24.902327, -7.440548, 1.000000
+Vertex 29 = -3.950729, 24.902327, -9.695135, 1.000000
+Vertex 30 = 0.029429, 24.902327, -10.486834, 1.000000
+Vertex 31 = 4.009588, 24.902327, -9.695121, 1.000000
+Vertex 32 = 7.383804, 24.902327, -7.440548, 1.000000
+Vertex 33 = 9.638391, 24.902327, -4.066332, 1.000000
+Vertex 34 = 13.618549, 20.130459, -0.086174, 1.000000
+Vertex 35 = 12.584127, 20.130459, 5.114150, 1.000000
+Vertex 36 = 9.638376, 20.130459, 9.522788, 1.000000
+Vertex 37 = 5.229752, 20.130459, 12.468524, 1.000000
+Vertex 38 = 0.029429, 20.130459, 13.502946, 1.000000
+Vertex 39 = -5.170893, 20.130459, 12.468524, 1.000000
+Vertex 40 = -9.579533, 20.130459, 9.522773, 1.000000
+Vertex 41 = -12.525269, 20.130459, 5.114150, 1.000000
+Vertex 42 = -13.559690, 20.130459, -0.086174, 1.000000
+Vertex 43 = -12.525269, 20.130459, -5.286496, 1.000000
+Vertex 44 = -9.579517, 20.130459, -9.695135, 1.000000
+Vertex 45 = -5.170893, 20.130459, -12.640872, 1.000000
+Vertex 46 = 0.029429, 20.130459, -13.675294, 1.000000
+Vertex 47 = 5.229767, 20.130459, -12.640872, 1.000000
+Vertex 48 = 9.638391, 20.130459, -9.695121, 1.000000
+Vertex 49 = 12.584127, 20.130459, -5.286496, 1.000000
+Vertex 50 = 14.738179, 14.501667, -0.086174, 1.000000
+Vertex 51 = 13.618549, 14.501667, 5.542615, 1.000000
+Vertex 52 = 10.430089, 14.501667, 10.314487, 1.000000
+Vertex 53 = 5.658218, 14.501667, 13.502946, 1.000000
+Vertex 54 = 0.029429, 14.501667, 14.622576, 1.000000
+Vertex 55 = -5.599360, 14.501667, 13.502946, 1.000000
+Vertex 56 = -10.371231, 14.501667, 10.314487, 1.000000
+Vertex 57 = -13.559690, 14.501667, 5.542615, 1.000000
+Vertex 58 = -14.679321, 14.501667, -0.086174, 1.000000
+Vertex 59 = -13.559690, 14.501667, -5.714977, 1.000000
+Vertex 60 = -10.371231, 14.501667, -10.486834, 1.000000
+Vertex 61 = -5.599360, 14.501667, -13.675294, 1.000000
+Vertex 62 = 0.029429, 14.501667, -14.794924, 1.000000
+Vertex 63 = 5.658233, 14.501667, -13.675294, 1.000000
+Vertex 64 = 10.430089, 14.501667, -10.486834, 1.000000
+Vertex 65 = 13.618549, 14.501667, -5.714962, 1.000000
+Vertex 66 = 13.618549, 8.872864, -0.086174, 1.000000
+Vertex 67 = 12.584127, 8.872864, 5.114150, 1.000000
+Vertex 68 = 9.638376, 8.872864, 9.522788, 1.000000
+Vertex 69 = 5.229752, 8.872864, 12.468524, 1.000000
+Vertex 70 = 0.029429, 8.872864, 13.502946, 1.000000
+Vertex 71 = -5.170893, 8.872864, 12.468524, 1.000000
+Vertex 72 = -9.579533, 8.872864, 9.522773, 1.000000
+Vertex 73 = -12.525269, 8.872864, 5.114150, 1.000000
+Vertex 74 = -13.559690, 8.872864, -0.086174, 1.000000
+Vertex 75 = -12.525269, 8.872864, -5.286496, 1.000000
+Vertex 76 = -9.579517, 8.872864, -9.695135, 1.000000
+Vertex 77 = -5.170893, 8.872864, -12.640872, 1.000000
+Vertex 78 = 0.029429, 8.872864, -13.675294, 1.000000
+Vertex 79 = 5.229767, 8.872864, -12.640872, 1.000000
+Vertex 80 = 9.638391, 8.872864, -9.695121, 1.000000
+Vertex 81 = 12.584127, 8.872864, -5.286496, 1.000000
+Vertex 82 = 10.430089, 4.101007, -0.086174, 1.000000
+Vertex 83 = 9.638376, 4.101007, 3.893985, 1.000000
+Vertex 84 = 7.383804, 4.101007, 7.268202, 1.000000
+Vertex 85 = 4.009588, 4.101007, 9.522773, 1.000000
+Vertex 86 = 0.029429, 4.101007, 10.314487, 1.000000
+Vertex 87 = -3.950729, 4.101007, 9.522773, 1.000000
+Vertex 88 = -7.324946, 4.101007, 7.268202, 1.000000
+Vertex 89 = -9.579517, 4.101007, 3.893985, 1.000000
+Vertex 90 = -10.371231, 4.101007, -0.086174, 1.000000
+Vertex 91 = -9.579517, 4.101007, -4.066332, 1.000000
+Vertex 92 = -7.324946, 4.101007, -7.440548, 1.000000
+Vertex 93 = -3.950729, 4.101007, -9.695121, 1.000000
+Vertex 94 = 0.029429, 4.101007, -10.486834, 1.000000
+Vertex 95 = 4.009588, 4.101007, -9.695121, 1.000000
+Vertex 96 = 7.383804, 4.101007, -7.440548, 1.000000
+Vertex 97 = 9.638391, 4.101007, -4.066332, 1.000000
+Vertex 98 = 5.658218, 0.912547, -0.086174, 1.000000
+Vertex 99 = 5.229752, 0.912547, 2.067878, 1.000000
+Vertex 100 = 4.009588, 0.912547, 3.893985, 1.000000
+Vertex 101 = 2.183482, 0.912547, 5.114150, 1.000000
+Vertex 102 = 0.029429, 0.912547, 5.542615, 1.000000
+Vertex 103 = -2.124623, 0.912547, 5.114150, 1.000000
+Vertex 104 = -3.950729, 0.912547, 3.893985, 1.000000
+Vertex 105 = -5.170893, 0.912547, 2.067878, 1.000000
+Vertex 106 = -5.599360, 0.912547, -0.086174, 1.000000
+Vertex 107 = -5.170893, 0.912547, -2.240226, 1.000000
+Vertex 108 = -3.950729, 0.912547, -4.066332, 1.000000
+Vertex 109 = -2.124623, 0.912547, -5.286496, 1.000000
+Vertex 110 = 0.029429, 0.912547, -5.714962, 1.000000
+Vertex 111 = 2.183482, 0.912547, -5.286496, 1.000000
+Vertex 112 = 4.009588, 0.912547, -4.066332, 1.000000
+Vertex 113 = 5.229752, 0.912547, -2.240226, 1.000000
+Object average radius = 19.022062, max radius = 29.210558
+COB Reader Texture Vertices: 153
+Texture Vertex 0: U=0.031250, V=1.000000
+Texture Vertex 1: U=0.093750, V=1.000000
+Texture Vertex 2: U=0.156250, V=1.000000
+Texture Vertex 3: U=0.218750, V=1.000000
+Texture Vertex 4: U=0.281250, V=1.000000
+Texture Vertex 5: U=0.343750, V=1.000000
+Texture Vertex 6: U=0.406250, V=1.000000
+Texture Vertex 7: U=0.468750, V=1.000000
+Texture Vertex 8: U=0.531250, V=1.000000
+Texture Vertex 9: U=0.593750, V=1.000000
+Texture Vertex 10: U=0.656250, V=1.000000
+Texture Vertex 11: U=0.718750, V=1.000000
+Texture Vertex 12: U=0.781250, V=1.000000
+Texture Vertex 13: U=0.843750, V=1.000000
+Texture Vertex 14: U=0.906250, V=1.000000
+Texture Vertex 15: U=0.968750, V=1.000000
+Texture Vertex 16: U=1.031250, V=1.000000
+Texture Vertex 17: U=0.000000, V=0.875000
+Texture Vertex 18: U=0.062500, V=0.875000
+Texture Vertex 19: U=0.125000, V=0.875000
+Texture Vertex 20: U=0.187500, V=0.875000
+Texture Vertex 21: U=0.250000, V=0.875000
+Texture Vertex 22: U=0.312500, V=0.875000
+Texture Vertex 23: U=0.375000, V=0.875000
+Texture Vertex 24: U=0.437500, V=0.875000
+Texture Vertex 25: U=0.500000, V=0.875000
+Texture Vertex 26: U=0.562500, V=0.875000
+Texture Vertex 27: U=0.625000, V=0.875000
+Texture Vertex 28: U=0.687500, V=0.875000
+Texture Vertex 29: U=0.750000, V=0.875000
+Texture Vertex 30: U=0.812500, V=0.875000
+Texture Vertex 31: U=0.875000, V=0.875000
+Texture Vertex 32: U=0.937500, V=0.875000
+Texture Vertex 33: U=1.000000, V=0.875000
+Texture Vertex 34: U=0.000000, V=0.750000
+Texture Vertex 35: U=0.062500, V=0.750000
+Texture Vertex 36: U=0.125000, V=0.750000
+Texture Vertex 37: U=0.187500, V=0.750000
+Texture Vertex 38: U=0.250000, V=0.750000
+Texture Vertex 39: U=0.312500, V=0.750000
+Texture Vertex 40: U=0.375000, V=0.750000
+Texture Vertex 41: U=0.437500, V=0.750000
+Texture Vertex 42: U=0.500000, V=0.750000
+Texture Vertex 43: U=0.562500, V=0.750000
+Texture Vertex 44: U=0.625000, V=0.750000
+Texture Vertex 45: U=0.687500, V=0.750000
+Texture Vertex 46: U=0.750000, V=0.750000
+Texture Vertex 47: U=0.812500, V=0.750000
+Texture Vertex 48: U=0.875000, V=0.750000
+Texture Vertex 49: U=0.937500, V=0.750000
+Texture Vertex 50: U=1.000000, V=0.750000
+Texture Vertex 51: U=0.000000, V=0.625000
+Texture Vertex 52: U=0.062500, V=0.625000
+Texture Vertex 53: U=0.125000, V=0.625000
+Texture Vertex 54: U=0.187500, V=0.625000
+Texture Vertex 55: U=0.250000, V=0.625000
+Texture Vertex 56: U=0.312500, V=0.625000
+Texture Vertex 57: U=0.375000, V=0.625000
+Texture Vertex 58: U=0.437500, V=0.625000
+Texture Vertex 59: U=0.500000, V=0.625000
+Texture Vertex 60: U=0.562500, V=0.625000
+Texture Vertex 61: U=0.625000, V=0.625000
+Texture Vertex 62: U=0.687500, V=0.625000
+Texture Vertex 63: U=0.750000, V=0.625000
+Texture Vertex 64: U=0.812500, V=0.625000
+Texture Vertex 65: U=0.875000, V=0.625000
+Texture Vertex 66: U=0.937500, V=0.625000
+Texture Vertex 67: U=1.000000, V=0.625000
+Texture Vertex 68: U=0.000000, V=0.500000
+Texture Vertex 69: U=0.062500, V=0.500000
+Texture Vertex 70: U=0.125000, V=0.500000
+Texture Vertex 71: U=0.187500, V=0.500000
+Texture Vertex 72: U=0.250000, V=0.500000
+Texture Vertex 73: U=0.312500, V=0.500000
+Texture Vertex 74: U=0.375000, V=0.500000
+Texture Vertex 75: U=0.437500, V=0.500000
+Texture Vertex 76: U=0.500000, V=0.500000
+Texture Vertex 77: U=0.562500, V=0.500000
+Texture Vertex 78: U=0.625000, V=0.500000
+Texture Vertex 79: U=0.687500, V=0.500000
+Texture Vertex 80: U=0.750000, V=0.500000
+Texture Vertex 81: U=0.812500, V=0.500000
+Texture Vertex 82: U=0.875000, V=0.500000
+Texture Vertex 83: U=0.937500, V=0.500000
+Texture Vertex 84: U=1.000000, V=0.500000
+Texture Vertex 85: U=0.000000, V=0.375000
+Texture Vertex 86: U=0.062500, V=0.375000
+Texture Vertex 87: U=0.125000, V=0.375000
+Texture Vertex 88: U=0.187500, V=0.375000
+Texture Vertex 89: U=0.250000, V=0.375000
+Texture Vertex 90: U=0.312500, V=0.375000
+Texture Vertex 91: U=0.375000, V=0.375000
+Texture Vertex 92: U=0.437500, V=0.375000
+Texture Vertex 93: U=0.500000, V=0.375000
+Texture Vertex 94: U=0.562500, V=0.375000
+Texture Vertex 95: U=0.625000, V=0.375000
+Texture Vertex 96: U=0.687500, V=0.375000
+Texture Vertex 97: U=0.750000, V=0.375000
+Texture Vertex 98: U=0.812500, V=0.375000
+Texture Vertex 99: U=0.875000, V=0.375000
+Texture Vertex 100: U=0.937500, V=0.375000
+Texture Vertex 101: U=1.000000, V=0.375000
+Texture Vertex 102: U=0.000000, V=0.250000
+Texture Vertex 103: U=0.062500, V=0.250000
+Texture Vertex 104: U=0.125000, V=0.250000
+Texture Vertex 105: U=0.187500, V=0.250000
+Texture Vertex 106: U=0.250000, V=0.250000
+Texture Vertex 107: U=0.312500, V=0.250000
+Texture Vertex 108: U=0.375000, V=0.250000
+Texture Vertex 109: U=0.437500, V=0.250000
+Texture Vertex 110: U=0.500000, V=0.250000
+Texture Vertex 111: U=0.562500, V=0.250000
+Texture Vertex 112: U=0.625000, V=0.250000
+Texture Vertex 113: U=0.687500, V=0.250000
+Texture Vertex 114: U=0.750000, V=0.250000
+Texture Vertex 115: U=0.812500, V=0.250000
+Texture Vertex 116: U=0.875000, V=0.250000
+Texture Vertex 117: U=0.937500, V=0.250000
+Texture Vertex 118: U=1.000000, V=0.250000
+Texture Vertex 119: U=0.000000, V=0.125000
+Texture Vertex 120: U=0.062500, V=0.125000
+Texture Vertex 121: U=0.125000, V=0.125000
+Texture Vertex 122: U=0.187500, V=0.125000
+Texture Vertex 123: U=0.250000, V=0.125000
+Texture Vertex 124: U=0.312500, V=0.125000
+Texture Vertex 125: U=0.375000, V=0.125000
+Texture Vertex 126: U=0.437500, V=0.125000
+Texture Vertex 127: U=0.500000, V=0.125000
+Texture Vertex 128: U=0.562500, V=0.125000
+Texture Vertex 129: U=0.625000, V=0.125000
+Texture Vertex 130: U=0.687500, V=0.125000
+Texture Vertex 131: U=0.750000, V=0.125000
+Texture Vertex 132: U=0.812500, V=0.125000
+Texture Vertex 133: U=0.875000, V=0.125000
+Texture Vertex 134: U=0.937500, V=0.125000
+Texture Vertex 135: U=1.000000, V=0.125000
+Texture Vertex 136: U=0.031250, V=0.000000
+Texture Vertex 137: U=0.093750, V=0.000000
+Texture Vertex 138: U=0.156250, V=0.000000
+Texture Vertex 139: U=0.218750, V=0.000000
+Texture Vertex 140: U=0.281250, V=0.000000
+Texture Vertex 141: U=0.343750, V=0.000000
+Texture Vertex 142: U=0.406250, V=0.000000
+Texture Vertex 143: U=0.468750, V=0.000000
+Texture Vertex 144: U=0.531250, V=0.000000
+Texture Vertex 145: U=0.593750, V=0.000000
+Texture Vertex 146: U=0.656250, V=0.000000
+Texture Vertex 147: U=0.718750, V=0.000000
+Texture Vertex 148: U=0.781250, V=0.000000
+Texture Vertex 149: U=0.843750, V=0.000000
+Texture Vertex 150: U=0.906250, V=0.000000
+Texture Vertex 151: U=0.968750, V=0.000000
+Texture Vertex 152: U=1.031250, V=0.000000
+COB Reader found face list in .COB file sphere01.cob.
+Polygon 0:
+Local material Index=0, total materials for object = 1, vert_indices [0, 3, 2]
+Polygon 1:
+Local material Index=0, total materials for object = 1, vert_indices [0, 4, 3]
+Polygon 2:
+Local material Index=0, total materials for object = 1, vert_indices [0, 5, 4]
+Polygon 3:
+Local material Index=0, total materials for object = 1, vert_indices [6, 5, 0]
+Polygon 4:
+Local material Index=0, total materials for object = 1, vert_indices [7, 6, 0]
+Polygon 5:
+Local material Index=0, total materials for object = 1, vert_indices [8, 7, 0]
+Polygon 6:
+Local material Index=0, total materials for object = 1, vert_indices [9, 8, 0]
+Polygon 7:
+Local material Index=0, total materials for object = 1, vert_indices [10, 9, 0]
+Polygon 8:
+Local material Index=0, total materials for object = 1, vert_indices [10, 0, 11]
+Polygon 9:
+Local material Index=0, total materials for object = 1, vert_indices [11, 0, 12]
+Polygon 10:
+Local material Index=0, total materials for object = 1, vert_indices [12, 0, 13]
+Polygon 11:
+Local material Index=0, total materials for object = 1, vert_indices [13, 0, 14]
+Polygon 12:
+Local material Index=0, total materials for object = 1, vert_indices [0, 15, 14]
+Polygon 13:
+Local material Index=0, total materials for object = 1, vert_indices [0, 16, 15]
+Polygon 14:
+Local material Index=0, total materials for object = 1, vert_indices [0, 17, 16]
+Polygon 15:
+Local material Index=0, total materials for object = 1, vert_indices [0, 2, 17]
+Polygon 16:
+Local material Index=0, total materials for object = 1, vert_indices [19, 18, 2]
+Polygon 17:
+Local material Index=0, total materials for object = 1, vert_indices [19, 2, 3]
+Polygon 18:
+Local material Index=0, total materials for object = 1, vert_indices [20, 19, 3]
+Polygon 19:
+Local material Index=0, total materials for object = 1, vert_indices [20, 3, 4]
+Polygon 20:
+Local material Index=0, total materials for object = 1, vert_indices [5, 21, 20]
+Polygon 21:
+Local material Index=0, total materials for object = 1, vert_indices [5, 20, 4]
+Polygon 22:
+Local material Index=0, total materials for object = 1, vert_indices [22, 21, 5]
+Polygon 23:
+Local material Index=0, total materials for object = 1, vert_indices [22, 5, 6]
+Polygon 24:
+Local material Index=0, total materials for object = 1, vert_indices [7, 23, 22]
+Polygon 25:
+Local material Index=0, total materials for object = 1, vert_indices [7, 22, 6]
+Polygon 26:
+Local material Index=0, total materials for object = 1, vert_indices [8, 24, 23]
+Polygon 27:
+Local material Index=0, total materials for object = 1, vert_indices [8, 23, 7]
+Polygon 28:
+Local material Index=0, total materials for object = 1, vert_indices [25, 24, 8]
+Polygon 29:
+Local material Index=0, total materials for object = 1, vert_indices [25, 8, 9]
+Polygon 30:
+Local material Index=0, total materials for object = 1, vert_indices [10, 26, 25]
+Polygon 31:
+Local material Index=0, total materials for object = 1, vert_indices [10, 25, 9]
+Polygon 32:
+Local material Index=0, total materials for object = 1, vert_indices [27, 26, 10]
+Polygon 33:
+Local material Index=0, total materials for object = 1, vert_indices [27, 10, 11]
+Polygon 34:
+Local material Index=0, total materials for object = 1, vert_indices [12, 28, 27]
+Polygon 35:
+Local material Index=0, total materials for object = 1, vert_indices [12, 27, 11]
+Polygon 36:
+Local material Index=0, total materials for object = 1, vert_indices [29, 28, 12]
+Polygon 37:
+Local material Index=0, total materials for object = 1, vert_indices [29, 12, 13]
+Polygon 38:
+Local material Index=0, total materials for object = 1, vert_indices [14, 30, 29]
+Polygon 39:
+Local material Index=0, total materials for object = 1, vert_indices [14, 29, 13]
+Polygon 40:
+Local material Index=0, total materials for object = 1, vert_indices [15, 31, 30]
+Polygon 41:
+Local material Index=0, total materials for object = 1, vert_indices [15, 30, 14]
+Polygon 42:
+Local material Index=0, total materials for object = 1, vert_indices [32, 31, 15]
+Polygon 43:
+Local material Index=0, total materials for object = 1, vert_indices [32, 15, 16]
+Polygon 44:
+Local material Index=0, total materials for object = 1, vert_indices [17, 33, 32]
+Polygon 45:
+Local material Index=0, total materials for object = 1, vert_indices [17, 32, 16]
+Polygon 46:
+Local material Index=0, total materials for object = 1, vert_indices [2, 18, 33]
+Polygon 47:
+Local material Index=0, total materials for object = 1, vert_indices [2, 33, 17]
+Polygon 48:
+Local material Index=0, total materials for object = 1, vert_indices [19, 35, 34]
+Polygon 49:
+Local material Index=0, total materials for object = 1, vert_indices [19, 34, 18]
+Polygon 50:
+Local material Index=0, total materials for object = 1, vert_indices [20, 36, 35]
+Polygon 51:
+Local material Index=0, total materials for object = 1, vert_indices [20, 35, 19]
+Polygon 52:
+Local material Index=0, total materials for object = 1, vert_indices [21, 37, 36]
+Polygon 53:
+Local material Index=0, total materials for object = 1, vert_indices [21, 36, 20]
+Polygon 54:
+Local material Index=0, total materials for object = 1, vert_indices [38, 37, 21]
+Polygon 55:
+Local material Index=0, total materials for object = 1, vert_indices [38, 21, 22]
+Polygon 56:
+Local material Index=0, total materials for object = 1, vert_indices [23, 39, 38]
+Polygon 57:
+Local material Index=0, total materials for object = 1, vert_indices [23, 38, 22]
+Polygon 58:
+Local material Index=0, total materials for object = 1, vert_indices [40, 39, 23]
+Polygon 59:
+Local material Index=0, total materials for object = 1, vert_indices [40, 23, 24]
+Polygon 60:
+Local material Index=0, total materials for object = 1, vert_indices [41, 40, 24]
+Polygon 61:
+Local material Index=0, total materials for object = 1, vert_indices [41, 24, 25]
+Polygon 62:
+Local material Index=0, total materials for object = 1, vert_indices [26, 42, 41]
+Polygon 63:
+Local material Index=0, total materials for object = 1, vert_indices [26, 41, 25]
+Polygon 64:
+Local material Index=0, total materials for object = 1, vert_indices [43, 42, 26]
+Polygon 65:
+Local material Index=0, total materials for object = 1, vert_indices [43, 26, 27]
+Polygon 66:
+Local material Index=0, total materials for object = 1, vert_indices [28, 44, 43]
+Polygon 67:
+Local material Index=0, total materials for object = 1, vert_indices [28, 43, 27]
+Polygon 68:
+Local material Index=0, total materials for object = 1, vert_indices [29, 45, 44]
+Polygon 69:
+Local material Index=0, total materials for object = 1, vert_indices [29, 44, 28]
+Polygon 70:
+Local material Index=0, total materials for object = 1, vert_indices [46, 45, 29]
+Polygon 71:
+Local material Index=0, total materials for object = 1, vert_indices [46, 29, 30]
+Polygon 72:
+Local material Index=0, total materials for object = 1, vert_indices [47, 46, 30]
+Polygon 73:
+Local material Index=0, total materials for object = 1, vert_indices [47, 30, 31]
+Polygon 74:
+Local material Index=0, total materials for object = 1, vert_indices [48, 47, 31]
+Polygon 75:
+Local material Index=0, total materials for object = 1, vert_indices [48, 31, 32]
+Polygon 76:
+Local material Index=0, total materials for object = 1, vert_indices [33, 49, 48]
+Polygon 77:
+Local material Index=0, total materials for object = 1, vert_indices [33, 48, 32]
+Polygon 78:
+Local material Index=0, total materials for object = 1, vert_indices [34, 49, 33]
+Polygon 79:
+Local material Index=0, total materials for object = 1, vert_indices [34, 33, 18]
+Polygon 80:
+Local material Index=0, total materials for object = 1, vert_indices [35, 51, 50]
+Polygon 81:
+Local material Index=0, total materials for object = 1, vert_indices [35, 50, 34]
+Polygon 82:
+Local material Index=0, total materials for object = 1, vert_indices [52, 51, 35]
+Polygon 83:
+Local material Index=0, total materials for object = 1, vert_indices [52, 35, 36]
+Polygon 84:
+Local material Index=0, total materials for object = 1, vert_indices [53, 52, 36]
+Polygon 85:
+Local material Index=0, total materials for object = 1, vert_indices [53, 36, 37]
+Polygon 86:
+Local material Index=0, total materials for object = 1, vert_indices [54, 53, 37]
+Polygon 87:
+Local material Index=0, total materials for object = 1, vert_indices [54, 37, 38]
+Polygon 88:
+Local material Index=0, total materials for object = 1, vert_indices [55, 54, 38]
+Polygon 89:
+Local material Index=0, total materials for object = 1, vert_indices [55, 38, 39]
+Polygon 90:
+Local material Index=0, total materials for object = 1, vert_indices [40, 56, 55]
+Polygon 91:
+Local material Index=0, total materials for object = 1, vert_indices [40, 55, 39]
+Polygon 92:
+Local material Index=0, total materials for object = 1, vert_indices [41, 57, 56]
+Polygon 93:
+Local material Index=0, total materials for object = 1, vert_indices [41, 56, 40]
+Polygon 94:
+Local material Index=0, total materials for object = 1, vert_indices [58, 57, 41]
+Polygon 95:
+Local material Index=0, total materials for object = 1, vert_indices [58, 41, 42]
+Polygon 96:
+Local material Index=0, total materials for object = 1, vert_indices [59, 58, 42]
+Polygon 97:
+Local material Index=0, total materials for object = 1, vert_indices [59, 42, 43]
+Polygon 98:
+Local material Index=0, total materials for object = 1, vert_indices [60, 59, 43]
+Polygon 99:
+Local material Index=0, total materials for object = 1, vert_indices [60, 43, 44]
+Polygon 100:
+Local material Index=0, total materials for object = 1, vert_indices [61, 60, 44]
+Polygon 101:
+Local material Index=0, total materials for object = 1, vert_indices [61, 44, 45]
+Polygon 102:
+Local material Index=0, total materials for object = 1, vert_indices [46, 62, 61]
+Polygon 103:
+Local material Index=0, total materials for object = 1, vert_indices [46, 61, 45]
+Polygon 104:
+Local material Index=0, total materials for object = 1, vert_indices [47, 63, 62]
+Polygon 105:
+Local material Index=0, total materials for object = 1, vert_indices [47, 62, 46]
+Polygon 106:
+Local material Index=0, total materials for object = 1, vert_indices [48, 64, 63]
+Polygon 107:
+Local material Index=0, total materials for object = 1, vert_indices [48, 63, 47]
+Polygon 108:
+Local material Index=0, total materials for object = 1, vert_indices [49, 65, 64]
+Polygon 109:
+Local material Index=0, total materials for object = 1, vert_indices [49, 64, 48]
+Polygon 110:
+Local material Index=0, total materials for object = 1, vert_indices [34, 50, 65]
+Polygon 111:
+Local material Index=0, total materials for object = 1, vert_indices [34, 65, 49]
+Polygon 112:
+Local material Index=0, total materials for object = 1, vert_indices [50, 51, 67]
+Polygon 113:
+Local material Index=0, total materials for object = 1, vert_indices [50, 67, 66]
+Polygon 114:
+Local material Index=0, total materials for object = 1, vert_indices [67, 51, 52]
+Polygon 115:
+Local material Index=0, total materials for object = 1, vert_indices [67, 52, 68]
+Polygon 116:
+Local material Index=0, total materials for object = 1, vert_indices [68, 52, 53]
+Polygon 117:
+Local material Index=0, total materials for object = 1, vert_indices [68, 53, 69]
+Polygon 118:
+Local material Index=0, total materials for object = 1, vert_indices [53, 54, 70]
+Polygon 119:
+Local material Index=0, total materials for object = 1, vert_indices [53, 70, 69]
+Polygon 120:
+Local material Index=0, total materials for object = 1, vert_indices [54, 55, 71]
+Polygon 121:
+Local material Index=0, total materials for object = 1, vert_indices [54, 71, 70]
+Polygon 122:
+Local material Index=0, total materials for object = 1, vert_indices [55, 56, 72]
+Polygon 123:
+Local material Index=0, total materials for object = 1, vert_indices [55, 72, 71]
+Polygon 124:
+Local material Index=0, total materials for object = 1, vert_indices [56, 57, 73]
+Polygon 125:
+Local material Index=0, total materials for object = 1, vert_indices [56, 73, 72]
+Polygon 126:
+Local material Index=0, total materials for object = 1, vert_indices [73, 57, 58]
+Polygon 127:
+Local material Index=0, total materials for object = 1, vert_indices [73, 58, 74]
+Polygon 128:
+Local material Index=0, total materials for object = 1, vert_indices [74, 58, 59]
+Polygon 129:
+Local material Index=0, total materials for object = 1, vert_indices [74, 59, 75]
+Polygon 130:
+Local material Index=0, total materials for object = 1, vert_indices [75, 59, 60]
+Polygon 131:
+Local material Index=0, total materials for object = 1, vert_indices [75, 60, 76]
+Polygon 132:
+Local material Index=0, total materials for object = 1, vert_indices [76, 60, 61]
+Polygon 133:
+Local material Index=0, total materials for object = 1, vert_indices [76, 61, 77]
+Polygon 134:
+Local material Index=0, total materials for object = 1, vert_indices [61, 62, 78]
+Polygon 135:
+Local material Index=0, total materials for object = 1, vert_indices [61, 78, 77]
+Polygon 136:
+Local material Index=0, total materials for object = 1, vert_indices [62, 63, 79]
+Polygon 137:
+Local material Index=0, total materials for object = 1, vert_indices [62, 79, 78]
+Polygon 138:
+Local material Index=0, total materials for object = 1, vert_indices [63, 64, 80]
+Polygon 139:
+Local material Index=0, total materials for object = 1, vert_indices [63, 80, 79]
+Polygon 140:
+Local material Index=0, total materials for object = 1, vert_indices [64, 65, 81]
+Polygon 141:
+Local material Index=0, total materials for object = 1, vert_indices [64, 81, 80]
+Polygon 142:
+Local material Index=0, total materials for object = 1, vert_indices [65, 50, 66]
+Polygon 143:
+Local material Index=0, total materials for object = 1, vert_indices [65, 66, 81]
+Polygon 144:
+Local material Index=0, total materials for object = 1, vert_indices [66, 67, 83]
+Polygon 145:
+Local material Index=0, total materials for object = 1, vert_indices [66, 83, 82]
+Polygon 146:
+Local material Index=0, total materials for object = 1, vert_indices [67, 68, 84]
+Polygon 147:
+Local material Index=0, total materials for object = 1, vert_indices [67, 84, 83]
+Polygon 148:
+Local material Index=0, total materials for object = 1, vert_indices [68, 69, 85]
+Polygon 149:
+Local material Index=0, total materials for object = 1, vert_indices [68, 85, 84]
+Polygon 150:
+Local material Index=0, total materials for object = 1, vert_indices [85, 69, 70]
+Polygon 151:
+Local material Index=0, total materials for object = 1, vert_indices [85, 70, 86]
+Polygon 152:
+Local material Index=0, total materials for object = 1, vert_indices [70, 71, 87]
+Polygon 153:
+Local material Index=0, total materials for object = 1, vert_indices [70, 87, 86]
+Polygon 154:
+Local material Index=0, total materials for object = 1, vert_indices [71, 72, 88]
+Polygon 155:
+Local material Index=0, total materials for object = 1, vert_indices [71, 88, 87]
+Polygon 156:
+Local material Index=0, total materials for object = 1, vert_indices [88, 72, 73]
+Polygon 157:
+Local material Index=0, total materials for object = 1, vert_indices [88, 73, 89]
+Polygon 158:
+Local material Index=0, total materials for object = 1, vert_indices [89, 73, 74]
+Polygon 159:
+Local material Index=0, total materials for object = 1, vert_indices [89, 74, 90]
+Polygon 160:
+Local material Index=0, total materials for object = 1, vert_indices [74, 75, 91]
+Polygon 161:
+Local material Index=0, total materials for object = 1, vert_indices [74, 91, 90]
+Polygon 162:
+Local material Index=0, total materials for object = 1, vert_indices [91, 75, 76]
+Polygon 163:
+Local material Index=0, total materials for object = 1, vert_indices [91, 76, 92]
+Polygon 164:
+Local material Index=0, total materials for object = 1, vert_indices [76, 77, 93]
+Polygon 165:
+Local material Index=0, total materials for object = 1, vert_indices [76, 93, 92]
+Polygon 166:
+Local material Index=0, total materials for object = 1, vert_indices [77, 78, 94]
+Polygon 167:
+Local material Index=0, total materials for object = 1, vert_indices [77, 94, 93]
+Polygon 168:
+Local material Index=0, total materials for object = 1, vert_indices [78, 79, 95]
+Polygon 169:
+Local material Index=0, total materials for object = 1, vert_indices [78, 95, 94]
+Polygon 170:
+Local material Index=0, total materials for object = 1, vert_indices [79, 80, 96]
+Polygon 171:
+Local material Index=0, total materials for object = 1, vert_indices [79, 96, 95]
+Polygon 172:
+Local material Index=0, total materials for object = 1, vert_indices [96, 80, 81]
+Polygon 173:
+Local material Index=0, total materials for object = 1, vert_indices [96, 81, 97]
+Polygon 174:
+Local material Index=0, total materials for object = 1, vert_indices [97, 81, 66]
+Polygon 175:
+Local material Index=0, total materials for object = 1, vert_indices [97, 66, 82]
+Polygon 176:
+Local material Index=0, total materials for object = 1, vert_indices [82, 83, 99]
+Polygon 177:
+Local material Index=0, total materials for object = 1, vert_indices [82, 99, 98]
+Polygon 178:
+Local material Index=0, total materials for object = 1, vert_indices [99, 83, 84]
+Polygon 179:
+Local material Index=0, total materials for object = 1, vert_indices [99, 84, 100]
+Polygon 180:
+Local material Index=0, total materials for object = 1, vert_indices [84, 85, 101]
+Polygon 181:
+Local material Index=0, total materials for object = 1, vert_indices [84, 101, 100]
+Polygon 182:
+Local material Index=0, total materials for object = 1, vert_indices [101, 85, 86]
+Polygon 183:
+Local material Index=0, total materials for object = 1, vert_indices [101, 86, 102]
+Polygon 184:
+Local material Index=0, total materials for object = 1, vert_indices [86, 87, 103]
+Polygon 185:
+Local material Index=0, total materials for object = 1, vert_indices [86, 103, 102]
+Polygon 186:
+Local material Index=0, total materials for object = 1, vert_indices [103, 87, 88]
+Polygon 187:
+Local material Index=0, total materials for object = 1, vert_indices [103, 88, 104]
+Polygon 188:
+Local material Index=0, total materials for object = 1, vert_indices [104, 88, 89]
+Polygon 189:
+Local material Index=0, total materials for object = 1, vert_indices [104, 89, 105]
+Polygon 190:
+Local material Index=0, total materials for object = 1, vert_indices [89, 90, 106]
+Polygon 191:
+Local material Index=0, total materials for object = 1, vert_indices [89, 106, 105]
+Polygon 192:
+Local material Index=0, total materials for object = 1, vert_indices [90, 91, 107]
+Polygon 193:
+Local material Index=0, total materials for object = 1, vert_indices [90, 107, 106]
+Polygon 194:
+Local material Index=0, total materials for object = 1, vert_indices [107, 91, 92]
+Polygon 195:
+Local material Index=0, total materials for object = 1, vert_indices [107, 92, 108]
+Polygon 196:
+Local material Index=0, total materials for object = 1, vert_indices [92, 93, 109]
+Polygon 197:
+Local material Index=0, total materials for object = 1, vert_indices [92, 109, 108]
+Polygon 198:
+Local material Index=0, total materials for object = 1, vert_indices [109, 93, 94]
+Polygon 199:
+Local material Index=0, total materials for object = 1, vert_indices [109, 94, 110]
+Polygon 200:
+Local material Index=0, total materials for object = 1, vert_indices [110, 94, 95]
+Polygon 201:
+Local material Index=0, total materials for object = 1, vert_indices [110, 95, 111]
+Polygon 202:
+Local material Index=0, total materials for object = 1, vert_indices [95, 96, 112]
+Polygon 203:
+Local material Index=0, total materials for object = 1, vert_indices [95, 112, 111]
+Polygon 204:
+Local material Index=0, total materials for object = 1, vert_indices [96, 97, 113]
+Polygon 205:
+Local material Index=0, total materials for object = 1, vert_indices [96, 113, 112]
+Polygon 206:
+Local material Index=0, total materials for object = 1, vert_indices [113, 97, 82]
+Polygon 207:
+Local material Index=0, total materials for object = 1, vert_indices [113, 82, 98]
+Polygon 208:
+Local material Index=0, total materials for object = 1, vert_indices [1, 98, 99]
+Polygon 209:
+Local material Index=0, total materials for object = 1, vert_indices [1, 99, 100]
+Polygon 210:
+Local material Index=0, total materials for object = 1, vert_indices [1, 100, 101]
+Polygon 211:
+Local material Index=0, total materials for object = 1, vert_indices [102, 1, 101]
+Polygon 212:
+Local material Index=0, total materials for object = 1, vert_indices [103, 1, 102]
+Polygon 213:
+Local material Index=0, total materials for object = 1, vert_indices [104, 1, 103]
+Polygon 214:
+Local material Index=0, total materials for object = 1, vert_indices [105, 1, 104]
+Polygon 215:
+Local material Index=0, total materials for object = 1, vert_indices [106, 1, 105]
+Polygon 216:
+Local material Index=0, total materials for object = 1, vert_indices [106, 107, 1]
+Polygon 217:
+Local material Index=0, total materials for object = 1, vert_indices [107, 108, 1]
+Polygon 218:
+Local material Index=0, total materials for object = 1, vert_indices [108, 109, 1]
+Polygon 219:
+Local material Index=0, total materials for object = 1, vert_indices [109, 110, 1]
+Polygon 220:
+Local material Index=0, total materials for object = 1, vert_indices [1, 110, 111]
+Polygon 221:
+Local material Index=0, total materials for object = 1, vert_indices [1, 111, 112]
+Polygon 222:
+Local material Index=0, total materials for object = 1, vert_indices [1, 112, 113]
+Polygon 223:
+Local material Index=0, total materials for object = 1, vert_indices [1, 113, 98]
+fixing poly material 0 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 1 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 2 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 3 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 4 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 5 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 6 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 7 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 8 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 9 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 10 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 11 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 12 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 13 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 14 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 15 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 16 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 17 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 18 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 19 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 20 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 21 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 22 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 23 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 24 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 25 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 26 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 27 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 28 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 29 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 30 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 31 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 32 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 33 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 34 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 35 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 36 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 37 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 38 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 39 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 40 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 41 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 42 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 43 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 44 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 45 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 46 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 47 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 48 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 49 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 50 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 51 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 52 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 53 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 54 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 55 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 56 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 57 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 58 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 59 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 60 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 61 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 62 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 63 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 64 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 65 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 66 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 67 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 68 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 69 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 70 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 71 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 72 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 73 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 74 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 75 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 76 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 77 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 78 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 79 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 80 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 81 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 82 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 83 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 84 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 85 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 86 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 87 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 88 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 89 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 90 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 91 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 92 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 93 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 94 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 95 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 96 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 97 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 98 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 99 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 100 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 101 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 102 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 103 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 104 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 105 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 106 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 107 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 108 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 109 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 110 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 111 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 112 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 113 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 114 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 115 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 116 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 117 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 118 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 119 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 120 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 121 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 122 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 123 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 124 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 125 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 126 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 127 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 128 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 129 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 130 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 131 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 132 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 133 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 134 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 135 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 136 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 137 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 138 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 139 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 140 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 141 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 142 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 143 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 144 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 145 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 146 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 147 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 148 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 149 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 150 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 151 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 152 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 153 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 154 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 155 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 156 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 157 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 158 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 159 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 160 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 161 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 162 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 163 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 164 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 165 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 166 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 167 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 168 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 169 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 170 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 171 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 172 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 173 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 174 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 175 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 176 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 177 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 178 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 179 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 180 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 181 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 182 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 183 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 184 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 185 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 186 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 187 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 188 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 189 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 190 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 191 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 192 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 193 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 194 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 195 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 196 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 197 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 198 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 199 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 200 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 201 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 202 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 203 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 204 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 205 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 206 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 207 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 208 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 209 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 210 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 211 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 212 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 213 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 214 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 215 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 216 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 217 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 218 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 219 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 220 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 221 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 222 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 223 from index 0 to index 0
+Polygon 16-bit
+Material 0
+int  state    = 0
+int  id       = 0
+char name[64] = 
+int  attr     = 64
+int r         = 248
+int g         = 255
+int b         = 254
+int alpha     = 255
+int color     = 64
+float ka      = 0.100000
+kd            = 1.000000
+ks            = 0.100000
+power         = 0.000000
+char texture_file = 
+
+Closing Error Output File.

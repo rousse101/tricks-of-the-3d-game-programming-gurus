@@ -1,0 +1,75 @@
+
+Opening Error Output File (ERROR.TXT) on Mon Aug 05 15:43:59.342, 2002
+
+Object Descriptor: tri 8 12   
+
+Vertex 0 = 5.000000, 5.000000, 5.000000, 1.000000
+Vertex 1 = -5.000000, 5.000000, 5.000000, 1.000000
+Vertex 2 = -5.000000, 5.000000, -5.000000, 1.000000
+Vertex 3 = 5.000000, 5.000000, -5.000000, 1.000000
+Vertex 4 = 5.000000, -5.000000, 5.000000, 1.000000
+Vertex 5 = -5.000000, -5.000000, 5.000000, 1.000000
+Vertex 6 = -5.000000, -5.000000, -5.000000, 1.000000
+Vertex 7 = 5.000000, -5.000000, -5.000000, 1.000000
+Object average radius = 8.660254, max radius = 8.660254
+Polygon 0:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [2, 1, 0]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 1:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [3, 2, 0]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 2:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [4, 7, 0]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 3:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [7, 3, 0]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 4:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [6, 7, 4]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 5:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [5, 6, 4]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 6:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [2, 6, 1]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 7:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [6, 5, 1]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 8:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [7, 6, 3]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 9:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [6, 2, 3]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 10:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [5, 4, 0]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Polygon 11:
+Surface Desc = 0xd0f0, num_verts = 3, vert_indices [1, 5, 0]
+2 sided.
+RGB color = [0, 15, 0]
+Shade mode = gouraud
+Closing Error Output File.

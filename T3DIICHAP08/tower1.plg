@@ -1,0 +1,68 @@
+# begin plg/plx file
+
+# define PLX_COLOR_MODE_RGB_FLAG     0x8000   // this poly uses RGB color
+# define PLX_COLOR_MODE_INDEXED_FLAG 0x0000   // this poly uses an indexed 8-bit color 
+# define PLX_2SIDED_FLAG              0x1000   // this poly is double sided
+# define PLX_1SIDED_FLAG              0x0000   // this poly is single sided
+# define PLX_SHADE_MODE_PURE_FLAG      0x0000  // this poly is a constant color
+# define PLX_SHADE_MODE_CONSTANT_FLAG  0x0000  // alias
+# define PLX_SHADE_MODE_FLAT_FLAG      0x2000  // this poly uses flat shading
+# define PLX_SHADE_MODE_GOURAUD_FLAG   0x4000  // this poly used gouraud shading
+# define PLX_SHADE_MODE_PHONG_FLAG     0x6000  // this poly uses phong shading
+# define PLX_SHADE_MODE_FASTPHONG_FLAG 0x6000  // this poly uses phong shading (alias)
+
+# name num_verts num_polys
+
+tower 16 18
+
+#vertex list
+
+-10 60 -10
+ 10 60 -10
+ 10 60 10
+-10 60 10
+-10 0 -10
+ 10 0 -10
+ 10 0 10
+-10 0 10
+-15 70 15
+-15 70 -15
+ 15 70 -15
+ 15 70 15
+-15 60 -15
+ 15 60 -15
+ 15 60 15
+-15 60 15
+
+#end vertex list
+
+#poly list
+
+0xafff 3 5 4 0 
+0xafff 3 1 5 0
+
+0xafff 3 6 5 1 
+0xafff 3 2 6 1
+
+0xafff 3 7 6 2 
+0xafff 3 3 7 2
+
+0xafff 3 7 3 0 
+0xafff 3 4 7 0
+
+0xafff 3 13 12 9 
+0xafff 3 10 13 9
+
+0xafff 3 14 13 10 
+0xafff 3 11 14 10
+
+0xafff 3 15 14 11 
+0xafff 3 8  15 11
+
+0xafff 3 12 15 8 
+0xafff 3 9 12 8
+
+0xafff 3 13 14 15 
+0xafff 3 12 13 15
+
+#end poly list

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raiders3d", "..\T3DIICHAP01\raiders3d.vcproj", "{40F7B128-0805-4139-B0FE-9A1E7FCAB490}"
+	ProjectSection(ProjectDependencies) = postProject
+		{89FC43CC-53FF-4AE7-A3B0-0EADCAD74781} = {89FC43CC-53FF-4AE7-A3B0-0EADCAD74781}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "..\Engine\Engine\Engine.vcproj", "{89FC43CC-53FF-4AE7-A3B0-0EADCAD74781}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T3DConsole2", "..\T3DIICHAP03\T3DConsole2.vcproj", "{2BB930DD-A9AE-499E-99EE-ECAA93714D44}"
+	ProjectSection(ProjectDependencies) = postProject
+		{89FC43CC-53FF-4AE7-A3B0-0EADCAD74781} = {89FC43CC-53FF-4AE7-A3B0-0EADCAD74781}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F7B128-0805-4139-B0FE-9A1E7FCAB490}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40F7B128-0805-4139-B0FE-9A1E7FCAB490}.Debug|Win32.Build.0 = Debug|Win32
+		{40F7B128-0805-4139-B0FE-9A1E7FCAB490}.Release|Win32.ActiveCfg = Release|Win32
+		{40F7B128-0805-4139-B0FE-9A1E7FCAB490}.Release|Win32.Build.0 = Release|Win32
+		{89FC43CC-53FF-4AE7-A3B0-0EADCAD74781}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89FC43CC-53FF-4AE7-A3B0-0EADCAD74781}.Debug|Win32.Build.0 = Debug|Win32
+		{89FC43CC-53FF-4AE7-A3B0-0EADCAD74781}.Release|Win32.ActiveCfg = Release|Win32
+		{89FC43CC-53FF-4AE7-A3B0-0EADCAD74781}.Release|Win32.Build.0 = Release|Win32
+		{2BB930DD-A9AE-499E-99EE-ECAA93714D44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BB930DD-A9AE-499E-99EE-ECAA93714D44}.Debug|Win32.Build.0 = Debug|Win32
+		{2BB930DD-A9AE-499E-99EE-ECAA93714D44}.Release|Win32.ActiveCfg = Release|Win32
+		{2BB930DD-A9AE-499E-99EE-ECAA93714D44}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

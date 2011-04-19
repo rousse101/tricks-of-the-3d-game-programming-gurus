@@ -1,0 +1,14 @@
+# test 1
+
+object name: tank
+num vertices: 4
+
+vertex list:
+
+0 10 20
+5 90 10
+3 4 3
+1 2 3
+
+end object # this is a comment!
+
